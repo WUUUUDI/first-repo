@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dev main1
 
+=======
+master main1,dev main1
+>>>>>>> dev
