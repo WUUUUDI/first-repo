@@ -1,1 +1,4 @@
-access.log
+asccess.log
+other.log
+*.log
+
